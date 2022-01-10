@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nairbdg@gmail.com
+	name = Brian Gonzales
